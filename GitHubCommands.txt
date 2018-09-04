@@ -1,0 +1,14 @@
+$ git checkout -b develop (this is used to create a new branch)
+$ git push origin develop (this command is used to save permanent)
+$ git status (used to check how many files updated and added and deleted)
+$ git add . (used to add or update or delete file on github, . for all file. you can specify single file too bt specify it name)
+$ git commit -m "Added new js file" (commit the changes after add)
+$ git checkout master (move to master branch)
+$ git merge develop (merge master with develop)
+$ git init (used to intilize repository)
+
+
+
+
+
+
